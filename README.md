@@ -10,7 +10,7 @@
 [![bioc](http://bioconductor.org/shields/availability/devel/CancerSubtypes.svg)](http://bioconductor.org/packages/CancerSubtypes/)
 [![bioc](http://www.bioconductor.org/shields/build/release/bioc/CancerSubtypes.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/CancerSubtypes.html)
 
-The R/Bioconductor package *CancerSubtypes* integrates the current common computational biology methods for cancer subtypes identification and provides a standardized framework for cancer subtype analysis based multi-omics data, such as gene expression, miRNA expression, DNA methylation and others.
+The R/Bioconductor package `*CancerSubtypes*` integrates the current common computational biology methods for cancer subtypes identification and provides a standardized framework for cancer subtype analysis based multi-omics data, such as gene expression, miRNA expression, DNA methylation and others.
 
 ------------------------------------------------------------------------
 
